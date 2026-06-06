@@ -1,8 +1,8 @@
 <h1 align="center">Student-Centric Answer Selection (SCAS)</h1>
 
-<p align="center">
+<!-- <p align="center">
   <strong>Open-source implementation for student-centric answer selection in LLM distillation</strong>
-</p>
+</p> -->
 
 <div align="center">
 
